@@ -26,7 +26,7 @@ Será que você consegue descobrir o número secreto? 🤔
 ## 🚀 Jogue agora!
 
 Clique no link abaixo e desafie sua sorte:  
-👉 **[Jogar Jogo do Número Secreto](https://vercel.com/brennomoraisdevs-projects/jogo-numero-secreto)** 👈  
+👉 **[Jogar Jogo do Número Secreto](https://jogo-numero-secreto-sooty-delta.vercel.app/)** 👈  
 
 ---
 
@@ -35,13 +35,4 @@ Clique no link abaixo e desafie sua sorte:
 Este jogo foi desenvolvido utilizando:  
 - ⚡ **HTML** e **CSS** para o design e estrutura.  
 - 🧠 **JavaScript** para a lógica do jogo.  
-- 🌐 Hospedado no **Vercel** para garantir um acesso rápido e seguro.  
-
----
-
-💡 **Gostou do jogo?** Deixe uma ⭐ no repositório e compartilhe com seus amigos!  
-📩 Tem feedback ou encontrou algum bug? Abra uma [issue](https://github.com/seu-usuario/seu-repositorio/issues) para nos ajudar a melhorar.  
-
----
-
-👉 **[Jogar Jogo do Número Secreto](https://vercel.com/brennomoraisdevs-projects/jogo-numero-secreto)** 👈
+- 🌐 Hosp
