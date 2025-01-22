@@ -29,7 +29,7 @@ let Tentativaplural = tentativas > 1? "tentativas" :"tentativa";
 
     if(chute == numeroScreto){
 
-      exibirMsg("h1", `Parabéns!! ${nome}... acertou porra`);
+      exibirMsg("h1", `Parabéns ${nome}!!🎉🥳`);
       exibirMsg("p", `Você acertou com ${tentativas} ${Tentativaplural}`);
       document.getElementById("reiniciar").removeAttribute("disabled");
       document.querySelector(".container__botao").setAttribute("disabled",true);
