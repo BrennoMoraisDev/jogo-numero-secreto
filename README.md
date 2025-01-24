@@ -15,7 +15,7 @@
 
 ## 🎮 Como funciona?
 
-1. **Escolha um número entre 1 e 10.**  
+1. **Escolha um número entre 1 e 1000.**  
 2. Clique para fazer sua tentativa.  
 3. Descubra se você acertou ou se precisa tentar de novo! 🔥  
 
