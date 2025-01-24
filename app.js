@@ -1,5 +1,5 @@
 let listanumerosSorteados =[];
-let Limite =10;
+let Limite =1000;
 let numeroScreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
@@ -8,7 +8,7 @@ let titulo = document.querySelector("h1");
 titulo.innerHTML = "Jogo do número Secreto";
 
 let paragrafo = document.querySelector("p");
-paragrafo.innerHTML = "escolha um numero entre 1 e 10";
+paragrafo.innerHTML = "escolha um numero entre 1 e 1000";
 
 // tipo 1 de função
 
