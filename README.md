@@ -1,6 +1,6 @@
 # 🔢 Jogo do Número Secreto
 
-🎉 Teste sua sorte e intuição no **Jogo do Número Secreto**! Você consegue adivinhar o número certo entre **1 e 10**?
+🎉 Teste sua sorte e intuição no **Jogo do Número Secreto**! Você consegue adivinhar o número certo entre **1 e 1000**?
 
 ---
 
