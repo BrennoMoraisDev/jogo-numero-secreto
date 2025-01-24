@@ -64,7 +64,7 @@ function exibirMsg(tag, texto){
 function mensagensIniciais(){
    exibirMsg("h1","Jogo do número Secreto" );
 
-   exibirMsg("p", "escolha um numero entre 1 e 10" );
+   exibirMsg("p", "escolha um numero entre 1 e 1000" );
 }
 
 
